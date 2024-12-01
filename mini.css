@@ -1,0 +1,11 @@
+#container{
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    text-transform: center;
+}
+
+#city-temperature,#city-time{
+    font-size: 40px;
+}
+
